@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "1280f3208038275062edda425d211381bff4670eb71203b973a8fe6ade7aaf43"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -343,10 +339,6 @@ hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "44e2786a4116e2fbdad4ad4ac817068aae353e207ad7538faa3b5b21ef4d8d65"
-
-[[files]]
-file = "mods/.DS_Store"
-hash = "9cf04d165636dfa79cf1153098cd7fa8bb3dfb60a2ba13eea2aab1e390b5d60e"
 
 [[files]]
 file = "mods/abnormals-core.toml"
