@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".DS_Store"
-hash = "1280f3208038275062edda425d211381bff4670eb71203b973a8fe6ade7aaf43"
+hash = "b375990bdb44ce14d9c56e2539af6bf7c599b19fa1f5bc99fb7d49c44af2bd4b"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
