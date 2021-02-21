@@ -1,0 +1,14 @@
+name = "Engineer's Decor"
+filename = "engineersdecor-1.16.4-1.1.8-b1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3201/716/engineersdecor-1.16.4-1.1.8-b1.jar"
+hash-format = "murmur2"
+hash = "502358990"
+
+[update]
+[update.curseforge]
+file-id = 3201716
+project-id = 313866
+release-channel = "beta"

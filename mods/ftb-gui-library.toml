@@ -1,0 +1,14 @@
+name = "FTB GUI Library"
+filename = "ftb-gui-library-1605.2.1.39-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3194/623/ftb-gui-library-1605.2.1.39-forge.jar"
+hash-format = "murmur2"
+hash = "1591894318"
+
+[update]
+[update.curseforge]
+file-id = 3194623
+project-id = 404465
+release-channel = "beta"

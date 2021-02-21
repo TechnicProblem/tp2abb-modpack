@@ -1,0 +1,14 @@
+name = "Xaero's Minimap"
+filename = "Xaeros_Minimap_21.3.0.2_Forge_1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3200/201/Xaeros_Minimap_21.3.0.2_Forge_1.16.5.jar"
+hash-format = "murmur2"
+hash = "1111844971"
+
+[update]
+[update.curseforge]
+file-id = 3200201
+project-id = 263420
+release-channel = "beta"

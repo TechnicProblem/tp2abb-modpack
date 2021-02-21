@@ -1,0 +1,14 @@
+name = "🔍 Jade"
+filename = "Jade-1.16.4-2.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3200/155/Jade-1.16.4-2.4.2.jar"
+hash-format = "murmur2"
+hash = "180690770"
+
+[update]
+[update.curseforge]
+file-id = 3200155
+project-id = 324717
+release-channel = "beta"

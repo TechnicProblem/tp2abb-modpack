@@ -1,0 +1,14 @@
+name = "Supplementaries"
+filename = "supplementaries-1.16.5-0.9.27.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3206/315/supplementaries-1.16.5-0.9.27.jar"
+hash-format = "murmur2"
+hash = "2369891720"
+
+[update]
+[update.curseforge]
+file-id = 3206315
+project-id = 412082
+release-channel = "beta"

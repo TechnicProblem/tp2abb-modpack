@@ -1,0 +1,14 @@
+name = "Pam's HarvestCraft 2 - Crops"
+filename = "pamhc2crops-1.16.3-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3076/451/pamhc2crops-1.16.3-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2295272377"
+
+[update]
+[update.curseforge]
+file-id = 3076451
+project-id = 361385
+release-channel = "beta"

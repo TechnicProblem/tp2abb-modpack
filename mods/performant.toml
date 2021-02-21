@@ -1,0 +1,14 @@
+name = "Performant"
+filename = "performant-1.16.2-4-3.30m.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3163/347/performant-1.16.2-4-3.30m.jar"
+hash-format = "murmur2"
+hash = "2671617487"
+
+[update]
+[update.curseforge]
+file-id = 3163347
+project-id = 354143
+release-channel = "beta"

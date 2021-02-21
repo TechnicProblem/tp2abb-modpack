@@ -1,0 +1,14 @@
+name = "Autumnity"
+filename = "autumnity-1.16.4-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3158/874/autumnity-1.16.4-2.0.1.jar"
+hash-format = "murmur2"
+hash = "117337464"
+
+[update]
+[update.curseforge]
+file-id = 3158874
+project-id = 365045
+release-channel = "beta"

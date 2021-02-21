@@ -1,0 +1,14 @@
+name = "Macaw's Doors"
+filename = "mcw-doors-1.0.2-mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3182/357/mcw-doors-1.0.2-mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "1037973944"
+
+[update]
+[update.curseforge]
+file-id = 3182357
+project-id = 378646
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Simply Light"
+filename = "simplylight-1.16.4-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3186/971/simplylight-1.16.4-1.1.2.jar"
+hash-format = "murmur2"
+hash = "1616285846"
+
+[update]
+[update.curseforge]
+file-id = 3186971
+project-id = 300331
+release-channel = "beta"

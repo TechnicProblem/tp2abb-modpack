@@ -1,0 +1,14 @@
+name = "U Team Core"
+filename = "u_team_core-1.16.4-3.1.17.192.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3177/217/u_team_core-1.16.4-3.1.17.192.jar"
+hash-format = "murmur2"
+hash = "2856073635"
+
+[update]
+[update.curseforge]
+file-id = 3177217
+project-id = 273744
+release-channel = "beta"

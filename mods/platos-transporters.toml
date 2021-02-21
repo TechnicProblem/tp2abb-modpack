@@ -1,0 +1,14 @@
+name = "Plato's Transporters [FORGE/FABRIC]"
+filename = "platos-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3190/562/platos-1.4.4.jar"
+hash-format = "murmur2"
+hash = "1462921321"
+
+[update]
+[update.curseforge]
+file-id = 3190562
+project-id = 392874
+release-channel = "beta"
