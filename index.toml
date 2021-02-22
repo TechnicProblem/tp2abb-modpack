@@ -205,6 +205,11 @@ file = "mods/.DS_Store"
 hash = "9cf04d165636dfa79cf1153098cd7fa8bb3dfb60a2ba13eea2aab1e390b5d60e"
 
 [[files]]
+file = "mods/abnormals-core.toml"
+hash = "3473787f1f6925b92441a2e54fb63e51739fcd4a62e3652071c91872d5fa5bca"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "843e853fe536f83ba830dea7e2aa15837e4751f4238879634d163bcade2cd4eb"
 metafile = true
